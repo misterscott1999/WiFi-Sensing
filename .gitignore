@@ -1,0 +1,19 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Secrets (Wi-Fi password, API tokens). Never commit.
+.env
+secrets/
+
+# Downloaded third-party code and binaries (re-downloadable, pinned in README)
+vendor/
+firmware/
+
+# Occupancy data reveals household routines: keep it local only
+data/
+
+# Logs
+*.log

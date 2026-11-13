@@ -1,0 +1,13 @@
+﻿{
+    "source":  "esp32",
+    "source_state":  "live_unverified",
+    "status":  "ready",
+    "trust":  {
+                  "demoted":  false,
+                  "effective_class":  "Anonymous",
+                  "engine_error_count":  0,
+                  "last_witness":  "330bd21c9d131d78dae428eb55d395cb39a2e0746b489d10167998bd89129be4",
+                  "raw_outputs_suppressed":  false,
+                  "recalibration_recommended":  false
+              }
+}

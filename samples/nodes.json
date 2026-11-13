@@ -1,0 +1,14 @@
+﻿{
+    "nodes":  [
+                  {
+                      "last_seen_ms":  15,
+                      "motion_level":  "present_moving",
+                      "node_id":  1,
+                      "person_count":  1,
+                      "person_count_valid":  true,
+                      "rssi_dbm":  -16.0,
+                      "status":  "active"
+                  }
+              ],
+    "total":  1
+}

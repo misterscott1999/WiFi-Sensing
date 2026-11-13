@@ -1,0 +1,15 @@
+﻿{
+    "nodes":  {
+                  "1":  {
+                            "csi_fps_ema":  35.9064921927386,
+                            "csi_fps_samples":  1119,
+                            "is_leader":  true,
+                            "is_valid":  true,
+                            "offset_us":  -9,
+                            "sequence":  220,
+                            "smoothed":  false,
+                            "staleness_ms":  317
+                        }
+              },
+    "total":  1
+}

@@ -1,0 +1,17 @@
+﻿{
+    "buffer_status":  {
+                          "breathing_capacity":  300,
+                          "breathing_samples":  0,
+                          "heartbeat_capacity":  150,
+                          "heartbeat_samples":  0
+                      },
+    "source":  "esp32",
+    "tick":  904,
+    "vital_signs":  {
+                        "breathing_confidence":  0.4333097115573893,
+                        "breathing_rate_bpm":  8.695393937822718,
+                        "heart_rate_bpm":  56.67484826241374,
+                        "heartbeat_confidence":  0.40644102915663577,
+                        "signal_quality":  0.5
+                    }
+}
